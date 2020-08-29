@@ -5,7 +5,7 @@ const colors = {
   background: "#0E1729",
   cursor: "#ecc48d",
   cursorAccent: "#ecc48d",
-  selection: "rgba(38, 51, 76, 0.8)",
+  selection: "rgba(38, 51, 76, 0.2)",
   border: "#070E1B",
 };
 
