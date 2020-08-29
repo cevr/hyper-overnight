@@ -1,0 +1,21 @@
+{
+  "name": "hyper-overnight",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Dark Hyper theme with bright colors",
+  "license": "MIT",
+  "repository": "cevr/hyper-overnight",
+  "author": {
+    "name": "Cristian Velasquez Ramos",
+    "email": "seeve.c@gmail.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "elegant",
+    "dark"
+  ]
+}
