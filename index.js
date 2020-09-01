@@ -12,7 +12,7 @@ const colors = {
 const terminalColors = {
   black: "#2E384D",
   white: "#D6D9E0",
-  blue: "#9AC6F2",
+  blue: "#8EACE3",
   cyan: "#92D8E6",
   green: "#BBD99E",
   magenta: "#C1A2FF",
