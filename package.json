@@ -17,5 +17,8 @@
     "hyper-theme",
     "elegant",
     "dark"
-  ]
+  ],
+  "devDependencies": {
+    "np": "^6.5.0"
+  }
 }
